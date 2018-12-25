@@ -1,2 +1,2 @@
 # cs_assignements
-simple python practice
+python assignments from cs303e class
