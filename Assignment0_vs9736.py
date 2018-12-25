@@ -1,0 +1,20 @@
+# Vinayak Sahal vs9736
+print('Hello World!')
+print('V           V        SSSSSSSSS')
+print(' V         V        S         ')
+print('  V       V             S     ')
+print('   V     V                 S  ')
+print('    V   V               S     ')
+print('      V           SSSSSSS     ')
+
+print('')
+print('    /\\')
+print('   /<>\\')
+print('  / \'\' \\')
+print(' /      \\')
+print('/  /\/\  \\')
+print('\/  /\  \/')
+
+print('One of my favorite books is, \"The Lightning Thief\" by Rick Riordan.')
+print('I would like to visit... \nVenice, Italy!')
+print('\"Everyone said Vincent Van Gogh,\n\'You can\'t be a great painter, \nyou only have one ear.\'\n And you know what he said?\n\' I can\'t hear you.\' \"\n -Steve Carell')
